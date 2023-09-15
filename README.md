@@ -25,7 +25,7 @@ In my role, I have had the opportunity to work on several ERP projects for diver
 
 - **Programming Languages**: PHP, Python, Java
 - **Database Management**: MySQL, PostgreSQL
-- **Web Technologies**: RESTful APIs, JSON, XML, SOAP
+- **Web Technologies**: RESTful APIs, JSON
 - **Version Control**: Git, GitHub
 - **ERP Systems**: Custom ERP development, ERP integration
 - **Databases**: Database design, optimization, and management
@@ -35,5 +35,3 @@ In my role, I have had the opportunity to work on several ERP projects for diver
 ### 📢 Let's Connect!
 
 I'm always open to interesting projects and opportunities. Let's connect and explore how we can work together to build innovative solutions.
-
-![Profile Image](https://github.com/yourusername/yourprofileimage.jpg)
