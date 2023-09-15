@@ -2,7 +2,7 @@
 
 ## Backend Developer | PHP
 
-👋 Hello, I'm John Doe, a passionate backend developer with a focus on PHP and extensive experience in building Enterprise Resource Planning (ERP) systems. I'm committed to crafting efficient and scalable solutions that drive business growth.
+👋 Hello, I'm Rizky Ramadhan, a passionate backend developer with a focus on PHP and extensive experience in building Enterprise Resource Planning (ERP) systems. I'm committed to crafting efficient and scalable solutions that drive business growth.
 
 ### 💼 Experience
 
