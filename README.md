@@ -7,9 +7,9 @@
 ### 💼 Experience
 
 #### Junior Backend Developer
-- **Company Name**: ABC Software Solutions
-- **Location**: Anytown, USA
-- **Duration**: January 2018 - Present
+- **Company Name**: Bhawana Piranti Semesta
+- **Location**: Jimbaran
+- **Duration**: September 2021 - Present
 
 In my role, I have had the opportunity to work on several ERP projects for diverse clients. My responsibilities include:
 
