@@ -17,7 +17,6 @@ In my role, I have had the opportunity to work on several ERP projects for diver
 - Optimizing database design and query performance for large-scale data management.
 - Integrating third-party APIs and services to enhance ERP functionality.
 - Collaborating with cross-functional teams to deliver high-quality software products.
-- Leading code reviews and mentoring junior developers.
 - Designing and implementing RESTful APIs for various web applications.
 - Refactoring and optimizing legacy code for improved maintainability.
 
