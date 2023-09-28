@@ -6,7 +6,7 @@
 
 ### 💼 Experience
 
-#### Junior Backend Developer
+#### Backend Developer
 - **Company Name**: Bhawana Piranti Semesta
 - **Location**: Jimbaran
 - **Duration**: September 2021 - Present
